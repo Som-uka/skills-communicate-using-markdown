@@ -1,3 +1,4 @@
-# Content in the H1 header
+# Image of Yaktocat
 
-Header was added
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Yaktocat
